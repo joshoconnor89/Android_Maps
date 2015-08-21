@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/pre-dexed/debug/classes-465ac19dbd0e0935dc27247b29e58db88462adbb.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-d832eac1a27a5b25958e56655deb05c8d36c076b.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/pre-dexed/debug/classes-60dd8de5a400f71cde9fc2dcdaf6a020dce7fe86.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/pre-dexed/debug/classes-6a00430acac7b221af0a653ecb07e96c95717d55.jar" />
+    </item>
+    <item
+        jar="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/kristiansecor/Desktop/androidweek8/maps2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-c1ebd818f63647c445a9e91fc122e12c55d3c9b3.jar" />
+    </item>
+
+</items>
